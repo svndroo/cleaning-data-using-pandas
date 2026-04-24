@@ -1,0 +1,31 @@
+id,job_title,company,salary,currency,experience_years,location,remote
+1,Data Scientist,Google,145000,USD,5,New York,Yes
+2,data scientist,Meta,152000,USD,7,San Francisco,yes
+3,Software Engineer,Apple,,USD,3,Austin,No
+4,Product Manager,Amazon,134000,USD,,Seattle,No
+5,DATA ENGINEER,Netflix,128000,USD,4,Los Angeles,YES
+6,Data Analyst,Microsoft,98000,usd,2,Seattle,No
+7,Software Engineer,Google,N/A,USD,6,New York,Yes
+8,ML Engineer,OpenAI,178000,USD,8,San Francisco,Yes
+9,data analyst,Meta,95000,USD,2,New York,no
+10,Product Manager,Apple,140000,USD,5,,Yes
+11,Software Engineer,Amazon,115000,USD,4,Seattle,No
+12,Data Scientist,Netflix,149000,USD,6,Los Angeles,Yes
+13,ML Engineer,Google,185000,USD,9,San Francisco,Yes
+14,data engineer,Microsoft,112000,usd,3,Seattle,No
+15,Software Engineer,OpenAI,160000,USD,7,San Francisco,Yes
+16,Data Analyst,Amazon,89000,USD,,New York,No
+17,PRODUCT MANAGER,Google,155000,USD,8,New York,yes
+18,Data Scientist,Apple,143000,USD,5,Austin,No
+19,ML Engineer,Meta,180000,USD,10,San Francisco,Yes
+20,data scientist,Amazon,138000,USD,4,Seattle,no
+21,Software Engineer,Netflix,125000,USD,3,Los Angeles,No
+22,Data Analyst,Google,102000,USD,3,New York,Yes
+23,ML Engineer,Apple,172000,USD,7,Austin,Yes
+24,Product Manager,Meta,148000,USD,6,San Francisco,No
+25,data engineer,Amazon,118000,usd,4,Seattle,No
+26,Software Engineer,Microsoft,119000,USD,5,Seattle,No
+27,Data Scientist,OpenAI,165000,USD,8,San Francisco,Yes
+28,data analyst,Netflix,91000,USD,1,Los Angeles,no
+29,ML Engineer,Amazon,168000,USD,7,Seattle,Yes
+30,Product Manager,Microsoft,138000,USD,6,Seattle,No
