@@ -1,0 +1,31 @@
+id,job_title,company,salary,currency,experience_years,location,remote
+1,Data Scientist,Google,145000.0,USD,5.0,New York,True
+2,Data Scientist,Meta,152000.0,USD,7.0,San Francisco,True
+3,Software Engineer,Apple,122000.0,USD,3.0,Austin,False
+4,Product Manager,Amazon,134000.0,USD,6.0,Seattle,False
+5,Data Engineer,Netflix,128000.0,USD,4.0,Los Angeles,True
+6,Data Analyst,Microsoft,98000.0,USD,2.0,Seattle,False
+7,Software Engineer,Google,122000.0,USD,6.0,New York,True
+8,Ml Engineer,OpenAI,178000.0,USD,8.0,San Francisco,True
+9,Data Analyst,Meta,95000.0,USD,2.0,New York,False
+10,Product Manager,Apple,140000.0,USD,5.0,Unknown,True
+11,Software Engineer,Amazon,115000.0,USD,4.0,Seattle,False
+12,Data Scientist,Netflix,149000.0,USD,6.0,Los Angeles,True
+13,Ml Engineer,Google,185000.0,USD,9.0,San Francisco,True
+14,Data Engineer,Microsoft,112000.0,USD,3.0,Seattle,False
+15,Software Engineer,OpenAI,160000.0,USD,7.0,San Francisco,True
+16,Data Analyst,Amazon,89000.0,USD,2.0,New York,False
+17,Product Manager,Google,155000.0,USD,8.0,New York,True
+18,Data Scientist,Apple,143000.0,USD,5.0,Austin,False
+19,Ml Engineer,Meta,180000.0,USD,10.0,San Francisco,True
+20,Data Scientist,Amazon,138000.0,USD,4.0,Seattle,False
+21,Software Engineer,Netflix,125000.0,USD,3.0,Los Angeles,False
+22,Data Analyst,Google,102000.0,USD,3.0,New York,True
+23,Ml Engineer,Apple,172000.0,USD,7.0,Austin,True
+24,Product Manager,Meta,148000.0,USD,6.0,San Francisco,False
+25,Data Engineer,Amazon,118000.0,USD,4.0,Seattle,False
+26,Software Engineer,Microsoft,119000.0,USD,5.0,Seattle,False
+27,Data Scientist,OpenAI,165000.0,USD,8.0,San Francisco,True
+28,Data Analyst,Netflix,91000.0,USD,1.0,Los Angeles,False
+29,Ml Engineer,Amazon,168000.0,USD,7.0,Seattle,True
+30,Product Manager,Microsoft,138000.0,USD,6.0,Seattle,False
